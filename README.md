@@ -1,7 +1,7 @@
 # Localization Homework
-This simple projects serves as a starting point for you homework assignment. **Please start by forking this repository into your own GitHub account.**
+This simple project serves as a starting point for your homework assignment. **Please start by forking this repository into your own GitHub account.**
 
-Your goal is to setup a fully-automated localization workflow in Memsource that will localize this README.md file (i.e. a new localization project is automatically created by Automated Project Creation feature when content of the file changes in your GitHub repository). After the translation is completed in Memsource, the translations are exported to the same GitHub repository, each language to a separate file.
+Your goal is to set up a fully-automated localization workflow in Memsource that will localize this README.md file (i.e. a new localization project is automatically created by the Automated Project Creation feature when the content of the file changes in your GitHub repository). After the translation is completed in Memsource, the translations are exported to the same GitHub repository, each language to a separate file.
 
 Set up the workflow to localize to at least two languages of your choice. The file should be pre-translated using a machine translation engine.
 
