@@ -18,4 +18,4 @@ You'll need to sign up for a trial of the Memsource **Ultimate** edition at http
 
   This sentence is changed to see if the task is working. 
   Last task wasn't working automatically, had to be manually pushed from project details to be pre-translated and set to completed.
-  This time I will just save the changes without manual work and wait.
+  This time I will just save the changes without manual work and wait. 
