@@ -11,4 +11,4 @@ Alle relevanten Dokumentationen sind verfügbar unter https://help.memsource.com
 
 Sie müssen sich für eine Testversion der Memsource Ultimate Edition unter https://www.memsource.com/pricing/ anmelden.
 
-Sie können diesen Satz ändern, um zu demonstrieren, wie eine Änderung dieser Datei den automatisierten Lokalisierungsworkflow auslöst.
+Dieser Satz wird geändert, um zu sehen, ob die Aufgabe funktioniert.
