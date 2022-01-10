@@ -11,4 +11,4 @@ Toute la documentation pertinente est disponible sur https://help.memsource.com/
 
 Vous devrez vous inscrire pour un essai de l'édition Memsource Ultimate sur https://www.memsource.com/pricing/
 
-Vous pouvez modifier cette phrase pour montrer comment une modification de ce fichier déclenche le workflow de localisation automatisé.
+Cette phrase est modifiée pour voir si la tâche fonctionne.
